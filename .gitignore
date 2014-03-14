@@ -1,0 +1,16 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/.idea/.name
+/.idea/compiler.xml
+/.idea/copyright/profiles_settings.xml
+/.idea/encodings.xml
+/.idea/gradle.xml
+/.idea/libraries/appcompat_v7_19_0_1.xml
+/.idea/libraries/jsoup_1_7_3.xml
+/.idea/libraries/support_v4_19_0_1.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/scopes/scope_settings.xml
+/.idea/vcs.xml
